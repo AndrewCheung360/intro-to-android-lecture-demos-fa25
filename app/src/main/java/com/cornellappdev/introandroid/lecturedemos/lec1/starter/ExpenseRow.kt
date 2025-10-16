@@ -1,4 +1,4 @@
-package com.cornellappdev.introandroid.lecturedemos.lec1
+package com.cornellappdev.introandroid.lecturedemos.lec1.starter
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Row
@@ -38,6 +38,7 @@ fun ExpenseRow(
     //  * Make everything vertically centered!
     //  * Make the row take up the full width!
     //  * Add padding to make it look nice!
+    //  * Make the row rounded
     //  * (Anything else...?)
     Row {
         Column {
